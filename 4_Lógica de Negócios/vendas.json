@@ -1,0 +1,24 @@
+{
+    "vendas": [
+        {
+            "produto": "Suco de caixinha",
+            "quantidade": 10,
+            "preco": 5.99
+        },
+        {
+            "produto": "Chocolate",
+            "quantidade": 25,
+            "preco": 4.99
+        },
+        {
+            "produto": "Biscoito",
+            "quantidade": 39,
+            "preco": 3.99
+        },
+        {
+            "produto": "Revista",
+            "quantidade": 20,
+            "preco": 10.99
+        }
+    ]
+}
