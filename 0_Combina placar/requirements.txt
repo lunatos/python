@@ -1,0 +1,4 @@
+strawberry-graphql==0.235.0
+requests==2.31.0
+starlette==0.37.2
+uvicorn==0.29.0

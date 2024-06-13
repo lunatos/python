@@ -24,7 +24,6 @@ def create_user(user: User):
     if user.id in users:
         raise HTTPException(status_code=400, detail="User already exists")
     user.id = len(users) + 1 
-    #para rodar asincronamente seria bom adicionar uma nova logica mais robusta
     users[user.id] = user
     return user
 
